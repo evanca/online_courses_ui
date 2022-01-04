@@ -1,16 +1,23 @@
 # online_courses_ui
 
-Submission for Flutter UI Contest 1.0 by Flutter Guide
+This app is my submission for Flutter UI Contest 1.0 by Flutter Guide
 
-## Getting Started
+### Demo
 
-This project is a starting point for a Flutter application.
+#### Normal screen (Pixel 2)
+<img src="readme/Screenshot_1641295318.png" width="30%"/> <img src="readme/Screenshot_1641295341.png" width="30%"/> <img src="readme/Screenshot_1641295348.png" width="30%"/> 
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### Small screen (Nexus S)
+<img src="readme/Screenshot_1641295435.png" width="20%"/> <img src="readme/Screenshot_1641295439.png" width="20%"/> <img src="readme/Screenshot_1641295445.png" width="20%"/> <img src="readme/Screenshot_1641295449.png" width="20%"/> 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+#### Tablet (Nexus 7)
+<img src="readme/Screenshot_1641295553.png" width="33%"/> <img src="readme/Screenshot_1641295556.png" width="33%"/> <img src="readme/Screenshot_1641295559.png" width="33%"/> 
+
+### Credits
+
+- Design inspired by Sergey Martyn's work: https://dribbble.com/shots/17155875-Medicine-Delivery-App-Design-Concept
+- Illustrations by <a href="https://icons8.com/illustrations/author/60ed83d88abd3c77b41f4194">Olga Filatova</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
