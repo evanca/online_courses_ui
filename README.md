@@ -2,6 +2,8 @@
 
 This app is my submission for Flutter UI Contest 1.0 by Flutter Guide
 
+[![wakatime](https://wakatime.com/badge/user/2f5ed1be-c97a-4d11-9513-d3f9c87e2d44/project/93eada1b-dd60-4d9a-a7a8-a1c21eba4a0b.svg)](https://wakatime.com/badge/user/2f5ed1be-c97a-4d11-9513-d3f9c87e2d44/project/93eada1b-dd60-4d9a-a7a8-a1c21eba4a0b)
+
 ### Demo
 
 #### Normal screen (Pixel 2)
